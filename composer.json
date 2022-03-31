@@ -1,6 +1,6 @@
 {
     "name": "edinaldo/clinicorp",
-    "version": "1.0",
+    "version": "1.1.0",
     "description": "Projeto para carregamento dos dados da API da clinicorp em PHP",
     "keywords": ["api","clinicorp", "clinicorp-api", "api-clinicorp", "clinicorp php", "clinicorp api php"],
     "type": "library",
