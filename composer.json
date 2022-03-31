@@ -14,7 +14,7 @@
             "email": "edinaldofox@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev-stable",
     "prefer-stable": true,
     "require": {
         "php": ">=7.1",
