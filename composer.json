@@ -1,0 +1,25 @@
+{
+    "name": "edinaldo/clinicorp",
+    "description": "Projeto para carregamento dos dados da API da clinicorp em PHP",
+    "keywords": ["api","clinicorp", "clinicorp-api", "api-clinicorp", "clinicorp php", "clinicorp api php"],
+    "type": "library",
+    "autoload": {
+        "psr-4": {"Clinicorp\\": "src/"}
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edinaldo",
+            "email": "edinaldofox@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1",
+        "symfony/http-client": "5.4.x-dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "symfony/test-pack": "dev-main"
+    }
+}
