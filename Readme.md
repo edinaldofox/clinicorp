@@ -159,7 +159,7 @@ Instalação
 
 - Executando o comando para adicionar a dependência automaticamente
   ```
-  php composer.phar require edinaldo/clinicorp
+  composer require edinaldo/clinicorp dev-stable
   ```
 
 **OU**
@@ -168,7 +168,7 @@ Instalação
   ```composer.json
   {
       "require": {
-         "edinaldo/clinicorp" : "^1.0"
+         "edinaldo/clinicorp": "dev-stable"
       }
   }
   ```
