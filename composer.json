@@ -14,7 +14,7 @@
             "email": "edinaldofox@gmail.com"
         }
     ],
-    "minimum-stability": "1.0",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=7.1",
         "symfony/http-client": "5.4.x-dev"
